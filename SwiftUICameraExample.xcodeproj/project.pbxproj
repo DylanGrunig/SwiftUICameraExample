@@ -11,6 +11,7 @@
 		00DA29ED29C95FC3006DC526 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DA29EC29C95FC3006DC526 /* ContentView.swift */; };
 		00DA29EF29C95FCC006DC526 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00DA29EE29C95FCC006DC526 /* Assets.xcassets */; };
 		00DA29F229C95FCC006DC526 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00DA29F129C95FCC006DC526 /* Preview Assets.xcassets */; };
+		00DA29F929C96D76006DC526 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DA29F829C96D76006DC526 /* ImagePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		00DA29EC29C95FC3006DC526 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		00DA29EE29C95FCC006DC526 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00DA29F129C95FCC006DC526 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		00DA29F829C96D76006DC526 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				00DA29EA29C95FC3006DC526 /* SwiftUICameraExampleApp.swift */,
 				00DA29EC29C95FC3006DC526 /* ContentView.swift */,
+				00DA29F829C96D76006DC526 /* ImagePickerView.swift */,
 				00DA29EE29C95FCC006DC526 /* Assets.xcassets */,
 				00DA29F029C95FCC006DC526 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00DA29ED29C95FC3006DC526 /* ContentView.swift in Sources */,
+				00DA29F929C96D76006DC526 /* ImagePickerView.swift in Sources */,
 				00DA29EB29C95FC3006DC526 /* SwiftUICameraExampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
